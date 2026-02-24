@@ -1,0 +1,9 @@
+/BestCheckpoint
+/datasets-cifar10-bin
+/LoadPretrainedModel
+/cifar-10-batches-bin
+/Transfer_Learning/BestCheckpoint
+/Transfer_Learning/LoadPretrainedModel
+/Transfer_learning/data
+
+
